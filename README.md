@@ -1,6 +1,8 @@
-# FreeCodeCamp API Projects: Timestamp Microservice
+# FreeCodeCamp API Projects: Timestamp Micro-service
 
-### User stories:
+This is a micro-service created as part of [FCC's Back End Development Certification](https://www.freecodecamp.com/challenges/timestamp-microservice) that allows get calls to convert Unix time-stamps or natural dates to one or the other.
+
+## User stories:
 
 1.  I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016)
 2.  If it does, it returns both the Unix timestamp and the natural language form of that date.
