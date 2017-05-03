@@ -8,9 +8,9 @@
 
 ## Example usage:
 
-<https://fcc-timestamp-api-yash.herokuapp.com/December%2015,%202015>
+<https://guarded-meadow-67841.herokuapp.com/December%2015,%202015>
 
-<https://fcc-timestamp-api-yash.herokuapp.com/1450137600>
+<https://guarded-meadow-67841.herokuapp.com/1450137600>
 
 ## Example output:
 
