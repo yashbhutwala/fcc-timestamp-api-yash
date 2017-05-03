@@ -1,0 +1,28 @@
+{
+  "name": "fcc-timestamp-api-yash",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp API Projects: Timestamp Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashbhutwala/fcc-timestamp-api-yash.git"
+  },
+  "keywords": [
+    "API",
+    "Yash Bhutwala",
+    "TimeStamp",
+    "NODE"
+  ],
+  "author": "Yash Bhutwala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yashbhutwala/fcc-timestamp-api-yash/issues"
+  },
+  "homepage": "https://github.com/yashbhutwala/fcc-timestamp-api-yash#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
